@@ -1,0 +1,40 @@
+Enter your name
+jithu
+User name is ,jithu
+
+
+Enter the number:
+20
+20 Number is even
+
+
+
+Enter first number:
+10
+Enter second number:
+20
+Enter third number:
+4
+20 is greater
+
+
+
+
+Enter num 1
+4
+Enter num 2
+5
+Enter num 3
+8
+Enter num 4
+9
+Sum is 26
+Average is 6
+product is 1440
+
+
+
+Enter the year 2012
+2012 is a leap year
+
+
